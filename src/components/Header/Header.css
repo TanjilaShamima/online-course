@@ -1,0 +1,22 @@
+.logo{
+    height:70px;
+    width : 70px;
+}
+.header nav ul li a{
+    font-weight: bold;
+
+}
+
+.header nav ul li a:hover {
+    background-color:  lightgray;;
+}
+.header nav ul li a:active{
+    color : red;
+}
+.log-in, .sign-up{
+    padding : 7px 25px;
+   
+}
+.log-in{
+    margin-right:10px;
+}

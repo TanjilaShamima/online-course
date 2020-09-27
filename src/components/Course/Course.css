@@ -1,0 +1,9 @@
+.course-container{
+    border-bottom: 1px solid black;
+    margin : 15px 0px;
+    padding : 10px 5px;
+}
+.course-img img{
+    height: 300px;
+    width : 300px;
+}

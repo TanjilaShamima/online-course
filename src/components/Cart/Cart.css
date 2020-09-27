@@ -1,0 +1,22 @@
+.preview-button{
+    padding : 5px 12px;
+}
+
+button.btn.btn-dark.preview-button {
+    margin-top: 15px;
+    margin-left: 50px;
+    padding: 10px 15px;
+}
+
+
+
+.cart-body {
+    margin-top: 22px;
+}
+
+
+.cart-container {
+    background-color: lightgray;
+    padding: 25px;
+    border-radius: 12px;
+}

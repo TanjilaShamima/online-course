@@ -1,0 +1,17 @@
+.shop-container{
+    display : flex;
+}
+
+.shop-course{
+    width : 70%;
+    border-right: 1px solid gray;
+    margin-right: 15px;
+   
+}
+.shop-cart {
+    width: 25%;
+    margin-top: 25px;
+    position: fixed;
+    margin-right: 7%;
+    right: 0;
+}
